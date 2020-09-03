@@ -1,0 +1,6 @@
+[submodule "myappsample"]
+	path = myappsample
+	url = https://github.com/RussellAbrogena/myappsample
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/RussellAbrogena/workspace.git
